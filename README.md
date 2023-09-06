@@ -1,5 +1,5 @@
 # Task-2-BharatIntern
-# Task-1-BharatIntern
+
 
 Make a system which tells whether the person will be
 save from sinking. What factors were
